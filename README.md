@@ -1,3 +1,16 @@
+
+
+# Compiled uYouPlus
+This is a compiled version of uYouPlus from the official instructions using Github Actions
+
+
+I decrypted  my own ipa from the official release using TrollDecrypt
+This build is version 19.22.6
+
+***
+
+
+
 # uYouPlus
 
 ![Image 2](https://github.com/qnblackcat/uYouPlus/assets/77606385/c1a1c58a-5d4d-48a6-bb98-d00086719ccc)
